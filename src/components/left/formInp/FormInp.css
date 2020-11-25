@@ -1,0 +1,28 @@
+.left{
+    max-width: 500px;
+}
+
+ .ol{
+     position: absolute;
+    top : 5px;
+    right:300px;
+ }
+
+.right{
+    margin-bottom: 10px;
+}
+
+.btntitle{
+    margin-right: 10px;
+}
+.btnEdit{
+    margin-left: 10px;
+}
+
+.des{
+    position: absolute;
+    top : 300px;
+    right:300px;
+    background-color: blue;
+    /* width: 100px; */
+}
